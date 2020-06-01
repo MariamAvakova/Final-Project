@@ -1,0 +1,13 @@
+
+nav	{text-align: center;
+padding: 35px;}
+.navbar-custom { 
+    background-color: rgb(85, 101, 128); 
+} 
+h1 {text-align: center;
+color: rgb(85, 101, 128);}
+h4 {text-align: center; color:rgb(85, 101, 128);}
+h3 {text-align: center;
+	color:rgb(85, 101, 128);}
+form {background-color: rgb(133, 158, 199); color: black;}
+a{color: white;}
